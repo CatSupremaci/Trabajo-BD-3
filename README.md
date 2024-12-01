@@ -7,7 +7,7 @@
 
 2- Primer paso. 
 
-Se debe clonar el repositorio y instalar las dependencias. git clone https://github.com/CatSupremaci/Trabajo-BD.git
+Se debe clonar el repositorio y instalar las dependencias. git clone https://github.com/CatSupremaci/Trabajo-BD-3.git
 
 3- Construir la base de datos en mysql.
 
